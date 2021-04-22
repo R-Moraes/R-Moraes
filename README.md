@@ -5,6 +5,7 @@
 Sou estudante de Engenharia de Computação, atualmente cursando 7º Periodo. :mortar_board:
 
 Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
+
 Atualmente ingressando em desenvolvimento Back-end com NodeJS:globe_with_meridians::computer:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R-Moraes)](https://github.com/R-Moraes)
