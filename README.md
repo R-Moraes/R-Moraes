@@ -2,7 +2,7 @@
 
 
 ## Olá Pessoal :blush:
-Sou estudante de Engenharia de Computação, atualmente cursando 7º Periodo. :mortar_board:
+Sou estudante de Engenharia de Computação, atualmente cursando 8º Periodo. :mortar_board:
 
 Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
 
