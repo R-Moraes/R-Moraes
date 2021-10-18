@@ -2,12 +2,27 @@
 
 
 ## Olá Pessoal :blush:
-Sou estudante de Engenharia de Computação, atualmente cursando 8º Periodo. :mortar_board:
+Sou estudante de Engenharia de Computação, atualmente cursando 9º Periodo. :mortar_board:
 
 Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
+<div>
+  <a href='https://github.com/R-Moraes'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R-Moraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Moraes&layout=compact&langs_count=16&theme=dracula"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/R-Moraes)](https://github.com/R-Moraes)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-moraes-041455198/)](https://www.linkedin.com/in/rodrigo-moraes-041455198/)
-[![Gmail Badge](https://img.shields.io/badge/-igo.moraes07@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=rodrigo:igo.moraes07@gmail.com)](rodrigo:igo.moraes07@gmail.com)
+<div style="display: inline_block"><br>
+  <img align="center" alt="R-Moraes-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
+  <img align="center" alt="R-Moraes-JS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
+  <img align="center" alt="R-Moraes-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="R-Moraes-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="R-Moraes-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+</div>
 
+##  
+
+<div>
+  <a href="mailto:contato@igo.moraes07"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/rodrigo-moraes-041455198/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+</div>
 
