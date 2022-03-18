@@ -13,10 +13,6 @@ Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine L
 
 <div style="display: inline_block"><br>
   <img align="center" alt="R-Moraes-Python" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"/>
-  <img align="center" alt="R-Moraes-JS" height="40" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
-  <img align="center" alt="R-Moraes-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="R-Moraes-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" alt="R-Moraes-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 </div>
 
 ##  
