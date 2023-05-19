@@ -8,7 +8,7 @@ Sou bacharel em engenharia de computação pela Universidade Federal do Pará.:c
 
 Atualmente trabalho como engenheiro de dados pela Accenture Brasil.:technologist::purple_circle:
 
-Sou um entusiasta dos estudos relacionados a inteligencia artificial.:computer::muscle:
+Sou um entusiasta dos estudos relacionados a inteligencia artificial.:computer::robot:
 
 Apaixonado por mangás e aninmes
 
