@@ -4,15 +4,14 @@
 ## Olá Pessoal :blush:
 Bem vindos ao perfil de um jovem dev paraense chamado Rodrigo Moraes.:hugs:
 
-Sou bacharel em engenharia de computação pela Universidade Federal do Pará.:computer::red_circle:
+Sou bacharel em engenharia de computação pela Universidade Federal do Pará.:computer::red_circle::mortar_board:
 
 Atualmente trabalho como engenheiro de dados pela Accenture Brasil.:technologist::purple_circle:
 
-Sou um entusiasta dos estudos relacionados a inteligencia artificial.
+Sou um entusiasta dos estudos relacionados a inteligencia artificial.:computer::muscle:
 
-Apaixonado por mangás e aninmes:mortar_board:
+Apaixonado por mangás e aninmes
 
-Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
 <div>
   <a href='https://github.com/R-Moraes'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R-Moraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
