@@ -10,7 +10,7 @@ Bem vindos ao perfil de um jovem dev paraense chamado Rodrigo Moraes.:hugs:
 
 - Sou um entusiasta dos estudos relacionados a inteligencia artificial.:computer::robot:
 
-- Apaixonado por mangás e aninmes:stuck_out_tongue_winking_eye:
+- Apaixonado por mangás e animes:stuck_out_tongue_winking_eye:
 
 <div>
   <a href='https://github.com/R-Moraes'>
