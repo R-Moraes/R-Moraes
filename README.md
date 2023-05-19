@@ -3,9 +3,13 @@
 
 ## Olá Pessoal :blush:
 Bem vindos ao perfil de um jovem dev paraense chamado Rodrigo Moraes.:hugs:
+
 Sou bacharel em engenharia de computação pela Universidade Federal do Pará.:computer::red_circle:
+
 Atualmente trabalho como engenheiro de dados pela Accenture Brasil.:technologist::purple_circle:
+
 Sou um entusiasta dos estudos relacionados a inteligencia artificial.
+
 Apaixonado por mangás e aninmes:mortar_board:
 
 Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
