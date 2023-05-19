@@ -2,7 +2,11 @@
 
 
 ## Olá Pessoal :blush:
-Sou estudante de Engenharia de Computação, atualmente cursando 9º Periodo. :mortar_board:
+Bem vindos ao perfil de um jovem dev paraense chamado Rodrigo Moraes.
+Sou bacharel em engenharia de computação pela Universidade Federal do Pará.
+Atualmente trabalho como engenheiro de dados pela Accenture Brasil.
+Sou um entusiasta dos estudos relacionados a inteligencia artificial.
+Apaixonado por mangás e aninmes:mortar_board:
 
 Estou constantemente buscando aprimorar meus conhecimentos em Python e Machine Learning.:computer::muscle:
 <div>
